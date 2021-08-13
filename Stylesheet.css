@@ -53,6 +53,7 @@ p{
         margin-bottom: 10px;
         margin-top: 0px;
        position: relative;
+       overflow: hidden;
          
 }
 div{
